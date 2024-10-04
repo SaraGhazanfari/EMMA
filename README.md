@@ -21,18 +21,18 @@ Our contributions can be summarized as follows:
 - General Benchmarks
 
 <div align="center">
-<img src="assets/result.png" width="50%">
+<img src="assets/result.png" width="70%">
 </div>
 
 - MLLM Specialized Benchmarks
 
 <div align="center">
-<img src="assets/result2.png" width="50%">
+<img src="assets/result2.png" width="70%">
 </div>
 
 - Hallucinations
 <div align="center">
-<img src="assets/hallu.png" width="30%">
+<img src="assets/hallu.png" width="40%">
 </div>
 
 <a name="data"></a>
