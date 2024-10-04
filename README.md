@@ -46,7 +46,7 @@ Our contributions can be summarized as follows:
 - Clone the project
 
 ```
-https://github.com/SaraGhazanfari/EMMA.git
+git clone https://github.com/SaraGhazanfari/EMMA.git
 ```
 - Clone the checkpoint
 ```
