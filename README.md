@@ -1,4 +1,6 @@
-# EMMA: Efficient Visual Alignment in Multi-Modal LLMs
+# EMMA [TMLR 2025]
+
+## Efficient Visual Alignment in Multi-Modal LLMs
 
 ### [Paper](https://arxiv.org/abs/2410.02080) | [Results](#results) | [Dataset](#data) | [Checkpoints](#checkpoints) | [Acknowledgement](#ack) | [Colab](https://colab.research.google.com/drive/1cMbh-bfSZhEachPzlSC4scPug_GCn2Jc?usp=sharing)
 We introduce EMMA (Efficient Multi-Modal Adaptation), which
